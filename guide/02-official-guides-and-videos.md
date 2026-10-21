@@ -26,6 +26,13 @@ Institutional framework for graduate research supervision. Doesn't dictate the a
 
 ## Official video / listening
 
+**Lesson 01 — real small talk and listening repair (official primary sources)**
+
+- BBC Learning English, *Office English: Work events* (verified BBC video): https://www.youtube.com/watch?v=AbnYjwQoIvU
+- BBC-hosted episode transcript: https://downloads.bbc.co.uk/learningenglish/office_english/240226_OfficeEnglish_WorkEvents_Transcript.pdf
+- British Council *Checking understanding* (video + transcript): https://learnenglish.britishcouncil.org/free-resources/speaking/a1/checking-understanding
+- British Council *Keeping a conversation going* (optional B1 video + transcript): https://learnenglish.britishcouncil.org/free-resources/speaking/b1/keeping-conversation-going
+
 A. **McGill — Connecting with a Supervisor (official graduate admissions video)**  
 https://www.youtube.com/watch?v=oTKMXBg7AVo  
 Use for admissions/supervision context. Official McGill directory: https://www.mcgill.ca/gradapplicants/events

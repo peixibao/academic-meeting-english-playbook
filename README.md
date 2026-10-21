@@ -2,6 +2,8 @@
 
 Reusable spoken English and realistic practice for prospective-supervisor meetings, thesis discussions and research-group meetings.
 
+**Next lesson (ready, not yet completed):** [Lesson 01 — Starting an Online Academic Meeting](lessons/lesson-01/lesson-plan.md) · [Learner worksheet](lessons/lesson-01/learner-worksheet.md)
+
 **Start here:** [Meeting map](guide/00-how-meetings-work.md) · [Learning method](guide/01-how-to-learn-and-update.md) · [Verified resources](guide/02-official-guides-and-videos.md)
 
 ## Principle: modular, not memorized
