@@ -1,21 +1,10 @@
-# 01 · Small talk and video-call basics
+# Joining, greeting and remote-meeting basics
 
-**Tech check:** “Hi, can you hear me okay?” / “Yes, I can hear you clearly. How about me?”
+The **full, reviewed** opening lesson is maintained in:
+- [1.1 Opening exchange](../lessons/lesson-01/1.1-opening-exchange.md)
+- [1.1a Name pronunciation and forms of address](../lessons/lesson-01/1.1a-names-and-pronunciation.md)
+- [1.1b Negotiating how to begin](../lessons/lesson-01/1.1b-negotiating-how-to-begin.md)
 
-**Greeting:** “It's nice to meet you. Thanks for making time to speak with me.”
+This module acts as a navigation point; it does not replace the detailed notes.
 
-**Warm everyday opener:** “How's your week going?” / “How are things on your end?”
-
-**Time zone:** “It's about nine in the evening here, so the time works well for me.”
-
-**Move to subject:** “I'd love to learn a little more about your current projects and talk about whether my interests might be a good fit.”
-
-**If professor starts:** “Absolutely. I'd be happy to give you a quick overview of my background.”
-
-### Practice
-
-Switch roles in a 60-second opening; practice variations where the other person is busy, pauses for connection, or immediately asks a research question.
-
-### Language note
-
-“What have you been up to?” is casual. For a first supervisor meeting, “How's your week going?” is a comfortable professional option.
+Small Talk & Building Rapport will be taught separately as Lesson 02.

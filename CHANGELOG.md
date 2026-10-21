@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.6.0 — 2026-10-21
+
+- Saved the approved full 421-line Lesson 01 Section 1.1 Markdown, retaining correct subheading hierarchy.
+- Added comprehensive two-way name pronunciation and forms of address, including correction branches.
+- Added the conversation-management unit on negotiating who begins, scope of research answers, spontaneous follow-ups, and unexpected scheduling constraints.
+- Replaced the earlier mis-scoped Lesson 01 plan and worksheet with a clear lesson index and optional practice.
+- Recorded learner-approved scope; no formal proficiency claim and no personal professor correspondence included.
+- Next: Lesson 02 Small Talk & Building Rapport, not yet taught.
+
 ## v0.5.0 — 2026-10-21
 
 - Made Columbia University's graduate-student-created advisor meeting guide the primary source for Lesson 01, after the learner clarified the goal.

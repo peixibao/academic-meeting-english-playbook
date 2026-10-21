@@ -11,3 +11,12 @@ P009,supervision,"How do you usually provide feedback on MSc students' work?",mu
 P010,authorship,"How are publication plans and authorship expectations usually discussed in your group?",project discussion,professional,new,Ask at an appropriate stage
 P011,close,"Just to confirm my next step is to ... Is that right?",closing,professional,new,
 P012,respond,"That's a useful point. Could I ask one follow-up question?",turn-taking,professional,new,
+"P013","name pronunciation","Before we get started, could I check how to pronounce your name?","opening; unknown name","professional","new","Invitation to model a name"
+"P014","name pronunciation","Did I pronounce your name correctly?","after saying a name","neutral","new","Encourages confirmation"
+"P015","name correction","That's very close! It's actually Pei-xi.","when correcting your own name","friendly-professional","new","Model slowly then repeat naturally"
+"P016","name confirmation","Exactly—you've got it.","when someone says your name correctly","friendly","new","Short confirmation"
+"P017","agenda negotiation","Perhaps I could start with a brief overview of my background.","who starts","professional","new","Offers structure"
+"P018","agenda negotiation","I'd be happy to start or we could begin with your current projects.","choice of speaker","professional","new","Leave room for preference"
+"P019","scope clarification","Would you prefer a general overview or one specific project?","ambiguous request","professional","new","Only when needed"
+"P020","answer expansion","I'd be happy to go into more detail if that would be helpful.","after concise answer","professional","new","Progressive disclosure"
+"P021","time constraint","I can keep my introduction brief.","when time is limited","professional","new","Adapt to other person's schedule"

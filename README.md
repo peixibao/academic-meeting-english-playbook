@@ -2,7 +2,9 @@
 
 Reusable spoken English and realistic practice for prospective-supervisor meetings, thesis discussions and research-group meetings.
 
-**Next lesson (university-guide-first, not yet completed):** [Lesson 01 — First Conversation with a Prospective Supervisor](lessons/lesson-01/lesson-plan.md)(lessons/lesson-01/lesson-plan.md) · [Learner worksheet](lessons/lesson-01/learner-worksheet.md)
+**Completed study section:** [Lesson 01 — Joining & Greeting](lessons/lesson-01/lesson-plan.md) · [Full opening exchange](lessons/lesson-01/1.1-opening-exchange.md) · [Name pronunciation](lessons/lesson-01/1.1a-names-and-pronunciation.md) · [Negotiating how to start](lessons/lesson-01/1.1b-negotiating-how-to-begin.md)
+
+**Next topic:** Lesson 02 — Small Talk & Building Rapport (not yet taught).
 
 **Start here:** [Meeting map](guide/00-how-meetings-work.md) · [Learning method](guide/01-how-to-learn-and-update.md) · [Verified resources](guide/02-official-guides-and-videos.md)
 
