@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.4.0 — 2026-10-21
+
+- Recalibrated Lesson 01 after the learner reported beginner workplace videos too easy and insufficiently relevant.
+- Made the authentic public JBJS interview featuring Sameer Parpia the main academic listening input; selected identifiable time-coded clips.
+- Replaced worksheets and teacher key with research-methodology listening comprehension, scholarly follow-ups and two-way discussion.
+- Recorded learner feedback without marking advanced practice complete.
+
 ## v0.3.0 — 2026-10-21
 
 - Prepared (not completed) Lesson 01: small talk, first video call, listening repair and academic transition.

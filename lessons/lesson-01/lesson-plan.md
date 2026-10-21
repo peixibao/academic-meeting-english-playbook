@@ -1,144 +1,80 @@
-# Lesson 01 — Starting an Online Academic Meeting
+# Lesson 01 (REVISED, v0.4) — An Authentic Academic Conversation
 
-**Status: READY TO LEARN / NOT COMPLETED**  
-**Timing:** 60 minutes (adjustable, 40-minute minimum track)  
-**Purpose:** First 2–3 minutes of an online academic conversation, listening repair, and a smooth transition to research.  
-**Training principles:** Input before output; reuse over memorization; give the other person room to speak.
+**Status: REVISED / INPUT ASSIGNED / NOT COMPLETED**
+**Level target:** B2–C1 academic listening and spontaneous discussion, adjusted to learner performance.
+**Estimated time:** 45–60 minutes.
+**Focus:** Listen to real academic speech → identify argument and rhetorical moves → formulate a scholarly follow-up → relate the issue to your actual study → handle an unexpected response.
 
-> This is an instructor-authored lesson adapted to an academic context. The linked BBC/British Council materials teach workplace networking and basic clarification; they do not depict a specific Canadian professor interview.
+## Why the lesson changed
 
-## Objectives
+Learner feedback (2026-10-21): the earlier A1 British Council checking-understanding and generic workplace small-talk inputs were too easy and poorly matched to a prospective research-supervisor discussion. They are now optional remedial references, not compulsory inputs. Completion status remains **not completed**; watching them does not certify mastery of the upgraded lesson.
 
-After the lesson, the learner can:
-1. Join a video call, check audio and greet a person they have not met.
-2. Respond to a brief small-talk question and ask a relevant question back, without monologuing.
-3. Request repetition, slower speech and clarification of meaning.
-4. Transition from greetings to the meeting's academic purpose.
-5. Complete an unscripted, two-way 2–3-minute meeting opening.
+## Authentic main source — an interview WITH the prospective professor
 
-## Study materials — play or listen first
+**OrthoJOE / Journal of Bone and Joint Surgery (JBJS), Episode 118 (10 Sep 2025)**  
+*Statistics and Methodology in Orthopaedics, with special guests Sameer Parpia and Sheila Sprague*  
+Audio + full published transcript: https://orthojoe.castos.com/episodes/statistics-and-methodology-in-orthopaedics-with-special-guests-sameer-parpia-and-sheila-sprague  
+Journal's video entry: https://podcasts.jbjs.org/detail/videos/orthojoe/video/6379025349112/118.-statistics-and-methodology-in-orthopaedics-with-special-guests-sameer-parpia-and-sheila-sprague
 
-**A · Main input: BBC Learning English, Office English — Work events (2024)**
-- Official verified BBC YouTube video: https://www.youtube.com/watch?v=AbnYjwQoIvU
-- Original BBC transcript (6 pages): https://downloads.bbc.co.uk/learningenglish/office_english/240226_OfficeEnglish_WorkEvents_Transcript.pdf
-- Target content: why professional small talk breaks the ice; opening with someone's specific work rather than flattery; open-ended questions; preparing a few discussion points.
-- For a time-limited lesson, prioritize opening discussion and the section on **starting a conversation / opening questions** (transcript pp. 1–4); listen to the relevant video passage instead of consuming the entire episode.
-- The source uses a *conference/work event*, so transferring this to a one-to-one online supervisor meeting is our own adaptation.
+**Important:** This is a public expert interview, *not* a recording of a prospective-supervisor meeting. We use it for the actual speaker's academic English, spoken question-answer patterns and views on methodology. Auto-generated/published transcript may contain transcription errors (including names and terms); use the recording to check uncertain words.
 
-**B · Main input: British Council LearnEnglish — Checking understanding**
-- Video and transcript: https://learnenglish.britishcouncil.org/free-resources/speaking/a1/checking-understanding
-- Official worksheet: https://learnenglish.britishcouncil.org/sites/podcasts/files/LearnEnglish-Speaking-A1-Checking-understanding.pdf
-- Target content: requesting repetition, slower speech, confirmation.
-- Low grammar difficulty is deliberate: high-pressure repair phrases should be automatic.
+### Essential listening chunks (around 3 minutes total)
 
-**C · Optional: British Council LearnEnglish — Keeping a conversation going (B1)**
-- https://learnenglish.britishcouncil.org/free-resources/speaking/b1/keeping-conversation-going
-- Focus: turn-taking, follow-up and topic transitions.
-
-## 60-minute classroom order
-
-| Minute | Phase | Instructor / learner activity |
+| Timestamp | Who/what | Comprehension goal |
 |---|---|---|
-| 00–12 | INPUT | BBC targeted passage + British Council checking video; first pass WITHOUT transcript, second WITH |
-| 12–24 | NOTICE + UNDERSTAND | Answer listening checks; explain why certain phrases invite an exchange |
-| 24–34 | LANGUAGE TOOLKIT | Study six functional patterns (below); contrast formal / natural / too casual |
-| 34–42 | IMITATE | Shadow five short teacher-authored model lines with pauses and intonation |
-| 42–50 | GUIDED OUTPUT | Transform prompts, fill gaps and respond with a limited selection of phrases |
-| 50–57 | UNSCRIPTED PRACTICE | Two rounds of an online meeting opening, with a surprise turn |
-| 57–60 | REVIEW | Identify two transferable expressions; assign next review; commit ONLY after actual practice |
+| 06:40–08:13 | Host asks Parpia when an RCT becomes infeasible; Parpia responds 07:19–08:13 | Distinguish poor recruitment feasibility from low event rate; notice how he builds on a colleague's point |
+| 12:03–13:15 | Host asks how to evaluate a submission; Parpia responds 12:32–13:15 | Understand clarity, alignment of design and analysis, and objective interpretation |
 
-**40-minute compressed option:** Input 9, notice 8, phrase toolkit 7, guided 7, role-play 6, review 3. Do not cut the listening-repair scenario.
+### Optional extension (2–3 minutes)
+09:04–11:48 — Parpia explains Bayesian analysis: prior assumptions and possible bias, maintaining study quality, pre-specification, and sensitivity checks. This is an *advanced listening* exercise; avoid treating it as a prerequisite to knowing Bayesian methods.
 
-## Input comprehension — answer after listening, before reading the key
+## Institutional practice frameworks
 
-### BBC source questions
+- **Columbia University E3B graduate students' guide, Part A, pp. 1–2:** https://e3b.columbia.edu/sites/e3b.columbia.edu/files/content/Guide-on-Meeting-with-Potential-Advisor-and-Asking-Questions-of-a-Grad-Program.pdf — prepares students for their first exploratory discussion; offers examples about research interests, methods, questions and past problems.
+- **Stanford, interviewing and talking with prospective faculty:** https://humsci.stanford.edu/prospective-students/guide-getting-grad-school/interviewing-and-talking-prospective-faculty — recommends knowing the prospective professor's research, a 1–2-minute summary of one's own work, and specific questions.
+- **Monash Medicine, choosing a supervisor:** https://www.monash.edu/medicine/research/supervisorconnect/choosing-a-supervisor — stresses two-way fit, past projects and mentoring expectations.
+These are *guides*, not claims about an individual MSc process in Canada.
 
-1. What is the social purpose of *small talk* in the BBC discussion?
-2. Why can an open-ended question work better than a yes/no question?
-3. Which approach better supports a research exchange: vague praise or mentioning a specific scholarly topic? Explain in your own words.
-4. Does the BBC piece show an actual prospective-supervisor interview? What transfer are **we** making?
+## Classroom sequence: input FIRST
 
-### British Council source questions
+1. **Cold listen, 7 min:** play the two essential segments with transcript hidden. Write brief notes on research point + communication pattern. Replay each once.
+2. **Check ideas, 8 min:** compare notes and transcript, distinguish content from methodological assumptions. Answer the 5 worksheet questions; instructor asks a precise follow-up.
+3. **Noticing, 8 min:** notice *acknowledge another speaker → identify a concrete issue → explain consequences → qualify claim*. No generic small-talk drills.
+4. **Language, 8 min:** learn to respond and challenge tactfully (“Building on that point...”; “I was wondering whether...”; “Would that depend on...?”; “That's interesting, especially because ...”).
+5. **Guided academic response, 8 min:** connect *one verified past project* to a design limitation and explain what additional study could address.
+6. **Unscripted two-way discussion, 10 min:** professor introduces a potential project; learner asks a research-relevant follow-up and reacts to answer (including disagreement or uncertainty).
+7. **Feedback / commit, 5 min:** specific listening feedback, original phrasing → corrections → natural version → one fresh retest. Only after practice, update mastery statuses.
 
-5. What is the main misunderstanding in the workplace dialogue?
-6. Which three communication moves help the person recover: repeat / slower / confirmation? Give an example of how each would help in an academic call.
+## Practical speaking patterns (INSTRUCTOR-CREATED, not podcast quotes)
 
-Learner writes short notes, not full polished essays. After learner has attempted, open `teacher-key.md`.
+**Recognize / build on idea**
+- “That's an interesting point about recruitment feasibility.”
+- “Building on that, would the expected event rate also affect the sample size you'd need?”
 
-## Core language toolkit — instructor-written, adapted for academia
+**Probe methods**
+- “When you say the design might not be feasible, is that primarily a recruitment issue or a question of statistical power?”
+- “Would an alternative design change the question we can reasonably answer?”
 
-| Function | Spoken option | Why/when |
-|---|---|---|
-| Audio check | “Hi, can you hear me okay?” | First seconds after joining |
-| Professional greeting | “It's lovely to meet you. Thanks for making time to speak with me.” | Once sound works |
-| Respond + return | “I'm doing well, thanks. How about you?” | When asked how you are |
-| Time-zone small talk | “It's late evening here, so this time actually works quite well.” | Only if relevant / asked |
-| Repair audio | “Sorry, I lost you for a second. Could you repeat the last part?” | Audio dropout |
-| Repair meaning | “Just to make sure I've understood, are you asking about [X]?” | Concept unclear |
-| Transition | “I'd love to hear more about your current work and discuss where our interests might overlap.” | Only after greeting / if invited |
+**Bridge to personal research**
+- “I ran into a related limitation when analysing an existing observational dataset. We could run additional models, but some information hadn't been measured in the first place.”
 
-Language notes:
-- “How about you?” is a brief, natural reciprocal question. Pause afterwards.
-- “I'm good, thanks” is friendly; “I'm doing well, thank you” is slightly more formal. Either works.
-- “I didn't catch that” can mean you did not hear or process the words. “Do you mean [X]?” checks interpretation.
-- “How's your week going?” is acceptable friendly small talk. Questions about private family matters are unnecessary in an initial academic meeting.
-- Avoid an apologetic disclaimer about your English level; ask for a precise clarification as needed.
-- The aim is **a conversation**, not filling silence or giving a prepared speech.
+**Avoid unjustified claims**
+- “My experience so far is in observational studies, so I'm still learning how these decisions play out in randomized trials.”
 
-## Instructor-written micro-dialogue (fictional)
+**Return the conversation**
+- “How does your group usually decide which questions are feasible for an MSc thesis?”
 
-**Professor:** Hi! Can you hear me okay?  
-**Student:** Yes, clearly. Can you hear me alright?  
-**Professor:** I can. Nice to meet you. How's your week going?  
-**Student:** Pretty well, thanks. I've been working on a research project, so it's been a busy week. How about you?  
-**Professor:** Busy too. So, what would you like to talk about today?  
-**Student:** I'd love to learn more about your current projects and explore whether there might be a good fit for an MSc thesis.
+## Connection to actual learner projects (PRIVATE when detailed)
 
-**Note:** This is an invented training dialogue, not a quotation from the linked BBC/British Council sources, and not a prediction of any professor's exact wording.
+- An adolescent OSA study: missing original cohort-selection information raises questions about the representativeness of prevalence estimates; additional post-stratification cannot recreate unknown individual inclusion probabilities.
+- A T2DM observational study: coarse measurement cannot be retroactively turned into fine-grained sleep timing; improve future question/design rather than fabricate variables.
+These are prompts for language practice, not materials to copy into the public repository as private project records.
 
-## Pronunciation and shadowing
+## Evaluation: what counts as real mastery?
 
-Read aloud twice: once slowly for accuracy, once naturally with pauses at the vertical bars.
-- “Hi, | can you HEAR me okay?”
-- “It's NICE to meet you. | Thanks for making TIME to speak with me.”
-- “I'm doing WELL, thanks. | How about YOU?”
-- “Sorry, | I didn't quite CATCH that.”
-- “Could you SAY that again, | a little more SLOWLY?”
-- “I'd love to HEAR more about your work | and see where our interests might OVERLAP.”
+- Accurate first-pass identification of two methods issues from spoken audio.
+- At least one genuine follow-up question that builds on the speaker's answer.
+- Can discuss an actual study limitation for 45–60 seconds without a script.
+- Can respond to an unplanned question without deflecting into a memorized biography.
 
-Capitals indicate a helpful focus word, NOT a guaranteed native stress transcription. Use the linked audio as primary real speech input; these original lines are practice prompts, not authenticated recordings.
-
-## Guided transformations
-
-A. Professor: “Can you hear me?” → Answer yes and check their audio.  
-B. Professor: “How are you today?” → Answer naturally and return the question.  
-C. Professor: “It's morning here. Isn't it late for you?” → Explain your local time briefly.  
-D. Professor: [audio drops during an explanation] → Request only the missed part.  
-E. Professor uses a term you do not know → Ask what it means *in this context*.  
-F. Professor: “What should we talk about?” → Name an academic goal and invite their perspective.
-
-## Unscripted role-play (only AFTER input / guided practice)
-
-**Round 1 (90 sec):** The professor starts with a sound check and greeting, asks about the student's day, then moves to the meeting purpose. Instructor waits for each answer; no script visible.
-
-**Round 2 (2 min, surprise):** The professor speaks quickly, asks about the local time, and introduces an unfamiliar term. The learner must request clarification and continue.
-
-Instructor feedback sequence:
-1. Preserve the exact learner wording.
-2. Correct errors or unnatural phrasing line by line, with reasons.
-3. Offer natural alternatives, stating if an expression is casual-only.
-4. Provide a stronger interview-safe version and a natural everyday version.
-5. Retry the same communicative function with *different words*.
-6. Promote at most 2–3 truly transferable items to the phrase bank.
-
-## Completion criteria (check after doing, not before)
-
-- [ ] Watched/listened to both main inputs
-- [ ] Answered comprehension questions
-- [ ] Said repair phrases without reading
-- [ ] Completed guided transformations
-- [ ] Finished at least one 2-minute unscripted opening
-- [ ] Received corrections and repeated improved answer
-- [ ] Stored transferable phrases and actual practice status in GitHub
-
-Do **not** mark complete just because the lesson file exists.
+**No marked completed status until the learner actually does these tasks.**

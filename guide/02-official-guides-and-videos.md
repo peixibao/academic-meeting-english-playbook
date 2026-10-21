@@ -58,3 +58,13 @@ For medical journals, the four authorship criteria involve substantial scholarly
 ## How to use a video
 
 Watch → notice three functional phrases → repeat them aloud → replace nouns and contexts with a realistic academic situation → apply in an unscripted role-play. Log the phrase, never copy a whole transcript into this repository.
+
+## Lesson 01 v0.4 — Replacements for beginner inputs (2026-10-21)
+
+**Primary real academic speech:** 2025 JBJS/OrthoJOE interview with Sameer Parpia and Sheila Sprague, 18 minutes, full on-page transcript and timestamps: https://orthojoe.castos.com/episodes/statistics-and-methodology-in-orthopaedics-with-special-guests-sameer-parpia-and-sheila-sprague. Focus 06:40–08:13 and 12:03–13:15, optional 09:04–11:48. This is an expert podcast, not a professor/student meeting.
+
+**Institutional first-meeting guide:** Columbia University E3B, *From Pre-Application Meeting to Post-Admission Questions* (Part A): https://e3b.columbia.edu/sites/e3b.columbia.edu/files/content/Guide-on-Meeting-with-Potential-Advisor-and-Asking-Questions-of-a-Grad-Program.pdf.
+
+**Faculty interview prep:** Stanford https://humsci.stanford.edu/prospective-students/guide-getting-grad-school/interviewing-and-talking-prospective-faculty.
+
+Previous generic small-talk resources remain optional reference material, not required inputs for the intermediate/advanced track.

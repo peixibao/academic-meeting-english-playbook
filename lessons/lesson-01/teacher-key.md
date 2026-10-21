@@ -1,48 +1,24 @@
-# Lesson 01 — Instructor notes / answer checks
+# Teacher key — Lesson 01 v0.4 (read AFTER first listening)
 
-Keep this hidden until the learner has listened and answered. The goal is comprehension and interaction, not guessing the “correct” script.
+## Content supported by the real audio
 
-## Source-specific checks
+**06:40–08:13:** Host asks Parpia how one can judge trial feasibility. Parpia identifies ability to recruit enough patients and sufficiently high outcome/event rates to detect meaningful differences. He mentions alternative designs such as single-arm trials and Bayesian adaptive approaches when conventional randomization may not be feasible. He explicitly begins by building on Sheila Sprague's remarks. He links feasibility to networks and surveys estimating recruitment.
 
-**BBC Office English — Work events (2024)**
-- Small talk can break the ice and support a professional connection before deeper discussion; the podcast discusses professional networking at work events.
-- Open-ended questions encourage elaboration and reciprocal conversation instead of a one-word yes/no response.
-- The episode recommends relevant and concrete openings (e.g. work or talk someone gave), alongside questions that invite the other person's thinking. For an academic meeting, adapt this to a real paper or research problem; do not insert empty praise.
-- It is an episode about work events, not an actual first MSc supervisor interview. Every student–professor dialogue in this course is a new pedagogical adaptation.
-- Verify in official PDF: https://downloads.bbc.co.uk/learningenglish/office_english/240226_OfficeEnglish_WorkEvents_Transcript.pdf (pp. 1–4).
+**12:03–13:15:** Parpia emphasizes clarity of the research question, design and analysis plan; the statistical analysis needs to match the design and research question; interpretations should be objective and avoid spin. Do not embellish this as personal permission for any individual MSc project.
 
-**British Council — Checking understanding (A1)**
-- Bob wants a hammer; Paul initially mistakes it for a spanner.
-- Strategies demonstrated: request repetition; ask to repeat more slowly; check understanding through a confirmation question.
-- The classroom setting is unrelated to research; the phrases are transferable to research calls.
-- https://learnenglish.britishcouncil.org/free-resources/speaking/a1/checking-understanding
+**Optional 09:04–11:48:** Bayesian priors must be defensible; subjectivity/bias are possible; pre-specification and sensitivity to prior choice matter. He stresses that sound design, conduct and measurement remain essential.
 
-## Guided practice: flexible sample responses
+**General scientific connection:** In the learner's past observational work, missing or poorly measured variables cannot necessarily be recovered through statistical adjustment. A thoughtful discussion may identify a better-designed future study and describe limits of inference. Avoid implying an observational study became causal merely by adjusting more variables.
 
-A. “Yes, I can hear you clearly. Can you hear me okay?”  
-B. “I'm doing well, thanks. It's been a busy week. How about you?”  
-C. “Yes, it's around nine in the evening here, but the timing works well for me.”  
-D. “Sorry, the audio cut out just after [WORD]. Could you repeat the last part?”  
-E. “I'm not familiar with that term in this context. Could you explain what you mean?”  
-F. “I'd be interested in learning about your current research projects and seeing whether there's a possible thesis fit. Does that sound like a good place to start?”
+## Conversation-focused feedback
 
-Use multiple valid answers, not exact matching. Do not require the learner to reuse sample sentences word-for-word.
+Measure whether the learner:
+- Gets the two main points after authentic listening, rather than catching isolated keywords.
+- Builds a follow-up from a speaker's ACTUAL answer.
+- Communicates a methodological limitation accurately and in conversational English.
+- Uses clarifying questions when terminology is unfamiliar.
 
-## Avoid teacher errors
+Optional model (instructor-written, NOT a quote):
+“That's interesting, especially your point about the event rate. Would this also influence whether you considered a secondary analysis of existing trial data for an MSc thesis?”
 
-- Do not interrogate the learner BEFORE input if the student explicitly requested input-first pedagogy.
-- Do not reward long monologues over listening and responsive follow-ups.
-- Do not portray casual British office video as a Canadian academic norm or as the professor's actual practice.
-- Do not assume video platform or meeting time has been confirmed unless verified.
-- Do not score the student or mark the GitHub progress file as completed prematurely.
-- Respect journal and thesis confidentiality: public repo contains only safe examples.
-
-## Suggested oral assessment (not a formal exam)
-
-- Listening and responding / 4
-- Natural greeting and small-talk turn / 4
-- Clarification when needed / 4
-- Transition to academic purpose / 4
-- Conversational pacing / 4
-
-Record only rubric totals and generic lessons in the public progress log, with user's permission; keep sensitive details private.
+When discussing a student's specific work, use only verified personal contributions. Never report 'learned/completed' unless the learner truly completed the revised lesson.

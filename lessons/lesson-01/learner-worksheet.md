@@ -1,59 +1,41 @@
-# Lesson 01 — Learner worksheet
+# Lesson 01 v0.4 — Research conversation listening worksheet
 
-**Before viewing:** Don't read the transcripts yet. This page records what YOU hear, not what the instructor guesses.
+## Main audio
+https://orthojoe.castos.com/episodes/statistics-and-methodology-in-orthopaedics-with-special-guests-sameer-parpia-and-sheila-sprague
 
-## Part A: BBC Listening — Work events
+Listen without transcript first. You can answer in Chinese for comprehension; the English output happens later.
 
-Source: https://www.youtube.com/watch?v=AbnYjwQoIvU  
-Official BBC transcript, consult on replay: https://downloads.bbc.co.uk/learningenglish/office_english/240226_OfficeEnglish_WorkEvents_Transcript.pdf
+### Chunk A · 06:40–08:13
+1. What *two* distinct reasons does Parpia give for a conventional randomized trial being impractical?
+2. Which alternative approaches does he mention? (It's okay to say you heard the design name but don't know the methodology.)
+3. Identify one phrase where he acknowledges or builds on another speaker's contribution.
 
-### Pass 1: no transcript
-- Main idea of small talk (in Chinese or English):
-- One useful question/strategy you heard:
-- Any hard-to-hear words:
+### Chunk B · 12:03–13:15
+4. Which features does he prioritize when evaluating the statistical and methodological quality of a submitted paper?
+5. What does he mean by keeping the design, research question and statistical analysis plan aligned? Give an example from an observational study.
 
-### Pass 2: read transcript pp. 2–4, replay relevant segment
-- Why is an open question better than only a yes/no question?
-- Adapt one source **idea** to asking about a professor's research (write your own sentence):
-- If your professor already knows you from email, what small talk can you skip?
+### Optional Chunk C · 09:04–11:48
+6. What is his principal concern about prior information in Bayesian analysis?
+7. Does he think a Bayesian method can compensate for flawed study conduct? Explain in one sentence.
 
-## Part B: British Council — Checking understanding
+## Second pass
+Read the original on-page transcript (it has errors; verify confusing language with audio):
+- Exact concept I missed:
+- One conversational phrase worth reusing:
+- One point I would like to ask the speaker:
 
-Video, transcript and official exercises: https://learnenglish.britishcouncil.org/free-resources/speaking/a1/checking-understanding
+## From listening to speaking — after input
 
-### Pass 1: no transcript
-- What item is the speaker requesting?
-- What word does the listener confuse it with?
+- One 30-second English summary of the Parpia point:
+- One question that advances the discussion:
+- One link to my prior observational research:
+- One reasonable limitation/uncertainty to acknowledge:
+- One new phrase I want to retain:
 
-### Pass 2: replay and check transcript
-- Write ONE way to ask the other person to repeat:
-- Write ONE way to ask for slower speech:
-- Write ONE way to check whether you understood their meaning:
+## Actual practice status
 
-## Part C: Listen → adapt
+**Input: not yet completed**  
+**Comprehension: not yet attempted**  
+**Two-way role-play: not yet attempted**
 
-Try the same function in a virtual academic call.
-
-1. You missed the last phrase due to weak internet. Say:
-2. The professor asks how your day is going. Answer and ask back:
-3. It is 9 PM locally and morning there. The professor comments on the time difference. Say:
-4. You heard every word but are unsure what “analysis population” means. Say:
-5. The professor asks you to suggest a purpose for the call. Say:
-
-## Part D: My first 40 seconds (structure, NOT a memorized speech)
-
-Sound check (if needed) → greeting → short response to small talk → invite the professor's next turn → academic transition only if appropriate.
-
-Write keywords, NOT a long script:
-- Sound:
-- Greeting:
-- One possible small-talk response:
-- My bridge to research:
-
-## After actual practice (leave blank until done)
-
-- Date:
-- What I managed without reading:
-- What I asked to be repeated:
-- Two expressions to save:
-- My next review:
+Do not mark this page complete based on the old A1 lesson.
