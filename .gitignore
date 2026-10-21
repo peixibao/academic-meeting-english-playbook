@@ -1,0 +1,9 @@
+# Never commit private meeting notes, recordings, invitations or credentials
+private/
+personal/
+meeting-notes/
+recordings/
+transcripts-private/
+*.env
+.env*
+.DS_Store

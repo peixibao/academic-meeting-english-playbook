@@ -1,0 +1,13 @@
+id,function,english,context,register,status,review_note
+P001,greeting,"It's nice to meet you. Thank you for making time to speak with me.",first call,professional,new,Practice without reading
+P002,tech,"Can you hear me okay?",joining,neutral,new,
+P003,background,"I can give you a quick overview of my research background.",transition,professional,new,
+P004,paper,"What particularly caught my attention was ...",paper discussion,professional,new,
+P005,connection,"That connects to something I encountered in my own research.",research bridge,professional,new,
+P006,clarify,"Sorry I didn't quite catch that. Could you say it again?",audio/clarity,neutral,new,
+P007,understanding,"Just to make sure I've understood correctly do you mean ...?",clarification,professional,new,
+P008,thesis,"Would there be opportunities to develop a thesis question within an existing project?",project opportunities,professional,new,
+P009,supervision,"How do you usually provide feedback on MSc students' work?",mutual expectations,professional,new,
+P010,authorship,"How are publication plans and authorship expectations usually discussed in your group?",project discussion,professional,new,Ask at an appropriate stage
+P011,close,"Just to confirm my next step is to ... Is that right?",closing,professional,new,
+P012,respond,"That's a useful point. Could I ask one follow-up question?",turn-taking,professional,new,
