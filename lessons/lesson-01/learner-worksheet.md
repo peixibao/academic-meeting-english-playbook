@@ -1,41 +1,52 @@
-# Lesson 01 v0.4 — Research conversation listening worksheet
+# Lesson 01 · Columbia PDF Guided Study Worksheet
 
-## Main audio
-https://orthojoe.castos.com/episodes/statistics-and-methodology-in-orthopaedics-with-special-guests-sameer-parpia-and-sheila-sprague
+**Primary source:** https://e3b.columbia.edu/sites/e3b.columbia.edu/files/content/Guide-on-Meeting-with-Potential-Advisor-and-Asking-Questions-of-a-Grad-Program.pdf
 
-Listen without transcript first. You can answer in Chinese for comprehension; the English output happens later.
+Do not answer from memory before reading. First read Columbia PART A (pp. 1–6 of PDF, through Communication Style). The guide is about US ecology/evolution PhD; adapt its communication structure to research MSc. Do not copy its funding/legal assertions into a Canadian context.
 
-### Chunk A · 06:40–08:13
-1. What *two* distinct reasons does Parpia give for a conventional randomized trial being impractical?
-2. Which alternative approaches does he mention? (It's okay to say you heard the design name but don't know the methodology.)
-3. Identify one phrase where he acknowledges or builds on another speaker's contribution.
+## Task 1 · Understand the first meeting
 
-### Chunk B · 12:03–13:15
-4. Which features does he prioritize when evaluating the statistical and methodological quality of a submitted paper?
-5. What does he mean by keeping the design, research question and statistical analysis plan aligned? Give an example from an observational study.
+1. Why might a prospective supervisor agree to speak with a student before application?
+2. What can the student evaluate about the supervisor during that same meeting?
+3. Should a student have a completely finalized thesis proposal? What does Columbia say about skills-based goals?
 
-### Optional Chunk C · 09:04–11:48
-6. What is his principal concern about prior information in Bayesian analysis?
-7. Does he think a Bayesian method can compensate for flawed study conduct? Explain in one sentence.
+## Task 2 · What the professor might ask
 
-## Second pass
-Read the original on-page transcript (it has errors; verify confusing language with audio):
-- Exact concept I missed:
-- One conversational phrase worth reusing:
-- One point I would like to ask the speaker:
+A. **Mutual interests:** How would I briefly describe my research interests and a recent relevant paper?  
+B. **Skills:** Which verified past project best demonstrates my own contribution? What problem did I handle?  
+C. **Goals:** What concrete research ability do I want to learn in MSc?  
+D. **Funding:** What must I confirm about admissions and financial requirements?  
+E. **Boundaries:** How would I respond politely if a personal question is not relevant to my research?
 
-## From listening to speaking — after input
+Write 2–3 keywords for each before drafting full English answers.
 
-- One 30-second English summary of the Parpia point:
-- One question that advances the discussion:
-- One link to my prior observational research:
-- One reasonable limitation/uncertainty to acknowledge:
-- One new phrase I want to retain:
+## Task 3 · What I should ask
 
-## Actual practice status
+Choose exactly 3 at first:
+[ ] An appropriate thesis topic and scope
+[ ] Expected student role in the analysis and project
+[ ] Supervision style and feedback frequency
+[ ] Publication and authorship expectations
+[ ] Funding/self-funded MSc eligibility
+[ ] Opportunity to speak with former or current student
+[ ] Training and placement / collaboration opportunities
+[ ] How to proceed with application
 
-**Input: not yet completed**  
-**Comprehension: not yet attempted**  
-**Two-way role-play: not yet attempted**
+## Task 4 · Study instructor's sample answers
 
-Do not mark this page complete based on the old A1 lesson.
+Mark each answer as: usable as-is / need to personalise / unnatural for me. Do not memorize examples word for word.
+
+## Task 5 · Guided interview and spontaneous practice
+
+Professor asks 5 different categories; student answers concisely, then asks at least 2 genuine research/supervision questions. Instructor gives line-by-line feedback and has learner retry with different phrasing.
+
+## Record AFTER practice
+
+- What I learned about the meeting structure:
+- My strongest 45-second introduction:
+- Three questions I will keep:
+- Two expressions I can use with ANY professor:
+- One topic to ask the program administrator, not the PI:
+- Follow-up practice date:
+
+**Current status: ready to study; not yet completed.**

@@ -68,3 +68,9 @@ Watch → notice three functional phrases → repeat them aloud → replace noun
 **Faculty interview prep:** Stanford https://humsci.stanford.edu/prospective-students/guide-getting-grad-school/interviewing-and-talking-prospective-faculty.
 
 Previous generic small-talk resources remain optional reference material, not required inputs for the intermediate/advanced track.
+
+## Lesson 01 v0.5 · MAIN reading (replaces earlier mandatory listening)
+
+Columbia University E3B graduate students' 8-page **Guide on Meeting with Potential Advisor and Asking Questions of a Grad Program**: https://e3b.columbia.edu/sites/e3b.columbia.edu/files/content/Guide-on-Meeting-with-Potential-Advisor-and-Asking-Questions-of-a-Grad-Program.pdf.
+
+**Read Part A**, discuss preparation-to-answer and preparation-to-ask sections; Part B describes follow-up and outreach to trainees. This is a US PhD (ecology and evolution) guide; adapt its meeting skills while checking Canadian MSc rules independently. Specialist podcasts and elementary small talk are now entirely optional.

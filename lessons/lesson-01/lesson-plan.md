@@ -1,80 +1,116 @@
-# Lesson 01 (REVISED, v0.4) — An Authentic Academic Conversation
+# Lesson 01 · The First Conversation with a Prospective Supervisor
 
-**Status: REVISED / INPUT ASSIGNED / NOT COMPLETED**
-**Level target:** B2–C1 academic listening and spontaneous discussion, adjusted to learner performance.
-**Estimated time:** 45–60 minutes.
-**Focus:** Listen to real academic speech → identify argument and rhetorical moves → formulate a scholarly follow-up → relate the issue to your actual study → handle an unexpected response.
+**Version:** 0.5 | **Status:** Ready to study; not yet completed | **Audience:** research MSc/MPhil/PhD applicants | **Priority:** first meeting in the coming days
 
-## Why the lesson changed
+## Exactly what this course teaches
 
-Learner feedback (2026-10-21): the earlier A1 British Council checking-understanding and generic workplace small-talk inputs were too easy and poorly matched to a prospective research-supervisor discussion. They are now optional remedial references, not compulsory inputs. Completion status remains **not completed**; watching them does not certify mastery of the upgraded lesson.
+This course is a practical **meeting handbook and dialogue toolkit**, built around a first contact with a research supervisor. The learner asked for how such a meeting works, likely faculty questions, one's own questions, two-way expectations and repeatable spoken templates. General academic podcasts, basic business small talk and specialist-methodology listening are **optional only**. Do not assign those as the first mandatory task.
 
-## Authentic main source — an interview WITH the prospective professor
+**Primary source:** Columbia E3B graduate students' *From Pre-Application Meeting to Post-Admission Questions* (8 pp):  
+https://e3b.columbia.edu/sites/e3b.columbia.edu/files/content/Guide-on-Meeting-with-Potential-Advisor-and-Asking-Questions-of-a-Grad-Program.pdf  
+**Read Part A, PDF pp. 1–6 (through Communication Style).** Part B pp. 6 onward is for after-meeting steps and checking with students. This guide is about US ecology/evolution PhD applications; its communicative structure is transferable, whereas US program funding/legal specifics must **not** be assumed to apply to Canadian MSc.
 
-**OrthoJOE / Journal of Bone and Joint Surgery (JBJS), Episode 118 (10 Sep 2025)**  
-*Statistics and Methodology in Orthopaedics, with special guests Sameer Parpia and Sheila Sprague*  
-Audio + full published transcript: https://orthojoe.castos.com/episodes/statistics-and-methodology-in-orthopaedics-with-special-guests-sameer-parpia-and-sheila-sprague  
-Journal's video entry: https://podcasts.jbjs.org/detail/videos/orthojoe/video/6379025349112/118.-statistics-and-methodology-in-orthopaedics-with-special-guests-sameer-parpia-and-sheila-sprague
+**Institutional corroboration:** Columbia program's own page says faculty may meet a prospective applicant by video if there is a possible research match, and encourages conversations with current students: https://e3b.columbia.edu/content/prospective-phd-students.
 
-**Important:** This is a public expert interview, *not* a recording of a prospective-supervisor meeting. We use it for the actual speaker's academic English, spoken question-answer patterns and views on methodology. Auto-generated/published transcript may contain transcription errors (including names and terms); use the recording to check uncertain words.
+## 50–60-minute INPUT-FIRST course sequence
 
-### Essential listening chunks (around 3 minutes total)
-
-| Timestamp | Who/what | Comprehension goal |
+| Time | Stage | Concrete output |
 |---|---|---|
-| 06:40–08:13 | Host asks Parpia when an RCT becomes infeasible; Parpia responds 07:19–08:13 | Distinguish poor recruitment feasibility from low event rate; notice how he builds on a colleague's point |
-| 12:03–13:15 | Host asks how to evaluate a submission; Parpia responds 12:32–13:15 | Understand clarity, alignment of design and analysis, and objective interpretation |
+| 0–12 min | Guided reading of Columbia Part A, learner highlights headings and question categories | Correct understanding of what both parties hope to learn |
+| 12–25 min | Instructor-written sample Q&A, mapped 1:1 to the guide | Answer structures and natural follow-ups |
+| 25–35 min | Work through supervisor-side checklist, choosing 3–4 meaningful questions | Learner can evaluate supervisor too |
+| 35–43 min | Study transitions, ways to listen, pause, clarify and ask a follow-up | Mini English conversation toolkit |
+| 43–54 min | Controlled practice first, then 6–8-minute two-way mini meeting | Transfer rather than recitation |
+| 54–60 min | Corrections + re-do two answers + record reusable language | GitHub practice log **only after real study** |
 
-### Optional extension (2–3 minutes)
-09:04–11:48 — Parpia explains Bayesian analysis: prior assumptions and possible bias, maintaining study quality, pre-specification, and sensitivity checks. This is an *advanced listening* exercise; avoid treating it as a prerequisite to knowing Bayesian methods.
+## Source-faithful structure (Columbia PART A)
 
-## Institutional practice frameworks
+### 1. Prepare to answer questions
 
-- **Columbia University E3B graduate students' guide, Part A, pp. 1–2:** https://e3b.columbia.edu/sites/e3b.columbia.edu/files/content/Guide-on-Meeting-with-Potential-Advisor-and-Asking-Questions-of-a-Grad-Program.pdf — prepares students for their first exploratory discussion; offers examples about research interests, methods, questions and past problems.
-- **Stanford, interviewing and talking with prospective faculty:** https://humsci.stanford.edu/prospective-students/guide-getting-grad-school/interviewing-and-talking-prospective-faculty — recommends knowing the prospective professor's research, a 1–2-minute summary of one's own work, and specific questions.
-- **Monash Medicine, choosing a supervisor:** https://www.monash.edu/medicine/research/supervisorconnect/choosing-a-supervisor — stresses two-way fit, past projects and mentoring expectations.
-These are *guides*, not claims about an individual MSc process in Canada.
+A. **Mutual interests**: research interests, important previous research, an interesting paper, program fit, specific overlap with a professor's work.
 
-## Classroom sequence: input FIRST
+B. **Skills, strengths and qualities**: past training, your role in projects, a research challenge or failure, independent or team working habits, relevant strengths and limits.
 
-1. **Cold listen, 7 min:** play the two essential segments with transcript hidden. Write brief notes on research point + communication pattern. Replay each once.
-2. **Check ideas, 8 min:** compare notes and transcript, distinguish content from methodological assumptions. Answer the 5 worksheet questions; instructor asks a precise follow-up.
-3. **Noticing, 8 min:** notice *acknowledge another speaker → identify a concrete issue → explain consequences → qualify claim*. No generic small-talk drills.
-4. **Language, 8 min:** learn to respond and challenge tactfully (“Building on that point...”; “I was wondering whether...”; “Would that depend on...?”; “That's interesting, especially because ...”).
-5. **Guided academic response, 8 min:** connect *one verified past project* to a design limitation and explain what additional study could address.
-6. **Unscripted two-way discussion, 10 min:** professor introduces a potential project; learner asks a research-relevant follow-up and reacts to answer (including disagreement or uncertainty).
-7. **Feedback / commit, 5 min:** specific listening feedback, original phrasing → corrections → natural version → one fresh retest. Only after practice, update mastery statuses.
+C. **Goals**: the methodological skills you want to develop, why this degree and why now, your possible career path. The guide accepts skill-based goals and acknowledged uncertainty.
 
-## Practical speaking patterns (INSTRUCTOR-CREATED, not podcast quotes)
+D. **Financial support**: anticipated scholarship and funding questions. For MSc applicants, ask the graduate administrator about exact program-specific requirements.
 
-**Recognize / build on idea**
-- “That's an interesting point about recruitment feasibility.”
-- “Building on that, would the expected event rate also affect the sample size you'd need?”
+E. **Inappropriate questions**: Columbia discusses US legal context; learn a polite deflection / redirect, but check local law before treating a statement as legally binding.
 
-**Probe methods**
-- “When you say the design might not be feasible, is that primarily a recruitment issue or a question of statistical power?”
-- “Would an alternative design change the question we can reasonably answer?”
+### 2. Prepare to ASK questions
 
-**Bridge to personal research**
-- “I ran into a related limitation when analysing an existing observational dataset. We could run additional models, but some information hadn't been measured in the first place.”
+A. **Project development**: current projects, thesis direction, first-year expectations, onboarding, research responsibilities and authorship norms.
 
-**Avoid unjustified claims**
-- “My experience so far is in observational studies, so I'm still learning how these decisions play out in randomized trials.”
+B. **Funding**: sources and duration, who can advise on international-student funding, whether self-funding is formally permitted. Never infer MSc rules from US PhD guidance.
 
-**Return the conversation**
-- “How does your group usually decide which questions are feasible for an MSc thesis?”
+C. **Culture**: who is in the research group, collaborations, recent alumni directions, opportunities to talk to current and former students.
 
-## Connection to actual learner projects (PRIVATE when detailed)
+D. **Availability**: frequency of supervisory meetings, feedback turnaround, sabbatical and co-supervision arrangements.
 
-- An adolescent OSA study: missing original cohort-selection information raises questions about the representativeness of prevalence estimates; additional post-stratification cannot recreate unknown individual inclusion probabilities.
-- A T2DM observational study: coarse measurement cannot be retroactively turned into fine-grained sleep timing; improve future question/design rather than fabricate variables.
-These are prompts for language practice, not materials to copy into the public repository as private project records.
+E. **Communication**: observe whether professor listens to your answers, engages with your ideas, follows up thoughtfully, and gives clear explanations.
 
-## Evaluation: what counts as real mastery?
+### Part B and C — later
 
-- Accurate first-pass identification of two methods issues from spoken audio.
-- At least one genuine follow-up question that builds on the speaker's answer.
-- Can discuss an actual study limitation for 45–60 seconds without a script.
-- Can respond to an unplanned question without deflecting into a memorized biography.
+After meeting: concise follow-up and talk independently to former/current trainees. Workload, authorship specifics, vacation, formal funding packages and institutional details may be addressed progressively; do not feel compelled to extract every answer in a 20-minute introductory call.
 
-**No marked completed status until the learner actually does these tasks.**
+## Original spoken-English Q&A toolkit
+
+**Faculty: “Tell me about yourself.”**  
+Structure: degree + main research area + one concrete contribution + forward research interest.  
+Student (generic template): “I'm finishing a degree in [field], and my recent work has involved [actual study type]. I've particularly enjoyed [actual responsibility], and I'm hoping to deepen my training in [method].”
+
+**Faculty: “What are you interested in researching?”**  
+Student: “Broadly, I'm interested in [question], especially how [method/design choice] changes the strength of the evidence. I'm open to refining that into a feasible thesis question.”
+
+**Faculty: “Tell me about a project you've worked on.”**  
+Structure: question → data/design → MY contribution → limitation/learning.  
+Student: “We looked at [question] using [design]. My role involved [verified action]. One challenge was [real limitation], and it made me think more carefully about [issue].”
+
+**Faculty: “Why my group?”**  
+Student: “I read your work on [specific topic]. The question about [methodological issue] stood out to me because I've seen a related challenge in [my study]. I'd be interested in learning how your team approaches it.”
+
+**Faculty: “What would you like to gain from a research MSc?”**  
+Student: “I'd like to become more independent in [study design / analysis plan / interpretation], ideally through a thesis where I take responsibility for a well-defined part of the research.”
+
+**Faculty: “Do you have a project in mind?”**  
+Student: “I have some tentative interests, but I'd welcome your advice on what would be realistic given ongoing projects and data access.”
+
+**Faculty: “What questions do you have for me?”**  
+Student: “Could you tell me about the kind of thesis projects an MSc student might work on? And how much independence students typically have in refining the research question?”
+
+**Optional when a project is concrete:**  
+“How do you usually discuss publication plans and authorship expectations with thesis students?”  
+“Would it be possible to speak with a current or former MSc student to understand the group's day-to-day working style?”
+
+**After a response:**  
+“That helps, thank you. Could I ask one follow-up about [specific point]?”
+
+**If a question is ambiguous:**  
+“Do you mean [interpretation A], or are you asking more about [interpretation B]?”
+
+**Close:**  
+“Thank you for sharing that. Just to make sure I've got the next steps right, should I [action]?”
+
+## Real meeting preparation
+
+One-page personal note (KEEP PRIVATE): 45-second self-intro; two truthful research stories; one relevant paper only if needed; three priority questions; the professor's actual words from email; a blank box for next steps.
+
+For introductory meetings, remember the professor may take the lead, may invite the student to speak first, and may stop at time limits. Don't memorize a 30-minute monologue.
+
+## Homework before mock meeting
+
+1. Read and annotate Columbia **Part A**. Check off the five categories in *answering* and five in *asking*.
+2. Write a short 1–3 sentence **answer idea**, in Chinese or English, for each of: research interests; project and own contribution; research difficulty; goals; why this research group.
+3. Choose three faculty questions you genuinely care about.
+4. Work through sample answers with the teacher; practice with cues; THEN role-play.
+5. Repeat the same questions for a different professor to check transfer.
+
+## Status and GitHub updates
+
+The learner already listened to initial A1/workplace material (reported too basic) and part of an authentic clinical-methodology podcast (understood general language, struggled with specialist terms). Neither is required for this **Columbia-guided conversation curriculum**. Record all as diagnostic feedback; mark this revised lesson completed only after its real exercises and conversation practice.
+
+## Further reading (OPTIONAL, not assigned as primary language material)
+
+- McGill: https://www.mcgill.ca/gradapplicants/research-supervision/connecting-supervisor
+- University of Waterloo: https://uwaterloo.ca/public-health-sciences/future-graduate-students/topics-discuss-your-potential-supervisor
+- Specialized audio / scholar's interview: reserved for a later research-methods listening unit.

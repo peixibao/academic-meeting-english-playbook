@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.5.0 — 2026-10-21
+
+- Made Columbia University's graduate-student-created advisor meeting guide the primary source for Lesson 01, after the learner clarified the goal.
+- Mapped all source categories into the course: professor questions, student questions, meeting expectations, supervision culture, authorship, funding, and communications.
+- Made specialist podcasts optional for later rather than compulsory preparatory input.
+- Replaced lesson worksheet and instructor answer key; maintained not-completed status until exercises are actually done.
+
 ## v0.4.0 — 2026-10-21
 
 - Recalibrated Lesson 01 after the learner reported beginner workplace videos too easy and insufficiently relevant.
