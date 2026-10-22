@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.9.0 — 2026-10-23
+
+- Saved reviewed Lesson 03 Section 3.1 as a full A–J Markdown teaching reference, covering politeness, register, forms of address, indirectness, modal verbs, hedging, deference, realistic dialogues, and accepting compliments.
+- Corrected Section E2 examples after review: distinguish exploring **new research fields** from selecting specific questions and distinguish **using epidemiological/statistical methods** from researching methodologies as a primary subject.
+- Included the discussed distinctions for *if/whether*, *on the fence/keeping options open/leaning toward*, and *I'm flattered* in the relevant parts of 3.1.
+- Created Lesson 03 plan with 3.2, 3.3 and 3.4 in the original sequence; no new difficulty track, rescoping or speculative learner interests.
+- Updated syllabus navigation and progress. Section 3.2 remains unsaved until reviewed.
+
 ## v0.8.1 — 2026-10-22
 
 - Restored and documented the learner's original fixed eight-unit English meeting curriculum.

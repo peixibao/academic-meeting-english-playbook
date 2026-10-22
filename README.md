@@ -4,7 +4,7 @@ Reusable spoken English and realistic practice for prospective-supervisor meetin
 
 **Completed study section:** [Lesson 01 — Joining & Greeting](lessons/lesson-01/lesson-plan.md) · [Full opening exchange](lessons/lesson-01/1.1-opening-exchange.md) · [Name pronunciation](lessons/lesson-01/1.1a-names-and-pronunciation.md) · [Negotiating how to start](lessons/lesson-01/1.1b-negotiating-how-to-begin.md)
 
-**Current course status:** Lesson 01 saved; Lesson 02 Sections 2.1 and 2.2 taught, reviewed, and saved. **Next core unit: Lesson 03 — Politeness & Academic Etiquette.**
+**Current course status:** Lesson 01 saved; Lesson 02 Sections 2.1 and 2.2 saved; **Lesson 03 Section 3.1 taught, reviewed, corrected and saved**. **Next: Lesson 03 · Section 3.2 Making Requests and Asking Permission**.
 
 **Start here:** [Meeting map](guide/00-how-meetings-work.md) · [Learning method](guide/01-how-to-learn-and-update.md) · [Verified resources](guide/02-official-guides-and-videos.md)
 
@@ -45,6 +45,7 @@ This is a **systematic, comprehensive course of transferable English for academi
 
 - [01 — Joining & Greeting](lessons/lesson-01/lesson-plan.md)
 - [02 — Small Talk & Building Rapport](lessons/lesson-02/lesson-plan.md)
+- [03 — Politeness & Academic Etiquette](lessons/lesson-03/lesson-plan.md)
 - [Research background and motivation: reusable language](modules/02-background-and-research.md)
 - [Discussion reference — Papers and thesis ideas](modules/03-papers-and-thesis-ideas.md)
 - [Discussion reference — Questions for supervisors, authorship and funding](modules/04-questions-for-supervisors.md)
