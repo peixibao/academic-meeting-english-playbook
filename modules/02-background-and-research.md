@@ -25,3 +25,7 @@ Add your actual role: research question, participant recruitment, data quality, 
 ### Scientific integrity
 
 Avoid calling observational associations causal effects without defensible design and assumptions. Do not call an unfinished manuscript a published paper. Never read out the full CV uninvited.
+
+## Motivation and interdisciplinary direction
+
+For adaptable expressions about preserving broad interests while gaining advanced methods skills, see [Research Motivation: Breadth, Interdisciplinarity, and Future Training](research-motivation-interdisciplinary.md).

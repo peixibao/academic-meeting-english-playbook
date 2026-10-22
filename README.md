@@ -4,7 +4,7 @@ Reusable spoken English and realistic practice for prospective-supervisor meetin
 
 **Completed study section:** [Lesson 01 — Joining & Greeting](lessons/lesson-01/lesson-plan.md) · [Full opening exchange](lessons/lesson-01/1.1-opening-exchange.md) · [Name pronunciation](lessons/lesson-01/1.1a-names-and-pronunciation.md) · [Negotiating how to start](lessons/lesson-01/1.1b-negotiating-how-to-begin.md)
 
-**Next topic:** Lesson 02 — Small Talk & Building Rapport (not yet taught).
+**Current course status:** Lesson 01 reference saved; [Lesson 02 · Section 2.1](lessons/lesson-02/lesson-plan.md) taught and saved; **2.2 not yet taught**.
 
 **Start here:** [Meeting map](guide/00-how-meetings-work.md) · [Learning method](guide/01-how-to-learn-and-update.md) · [Verified resources](guide/02-official-guides-and-videos.md)
 
@@ -24,15 +24,16 @@ A meeting is a two-way conversation. Assemble an answer from a communication pur
 5. Ask about supervision, contributions, training and mutual expectations.
 6. Recap next steps, close, and follow up appropriately.
 
-## Modules
+## Current lessons and reusable modules
 
-- [01 — Small talk and video-call basics](modules/01-small-talk-and-tech.md)
-- [02 — Background, research and motivation](modules/02-background-and-research.md)
-- [03 — Discussing papers and thesis ideas](modules/03-papers-and-thesis-ideas.md)
-- [04 — Questions for supervisors, authorship and funding](modules/04-questions-for-supervisors.md)
-- [05 — Clarification and conversation repair](modules/05-listening-and-conversation-repair.md)
-- [06 — Future lab and research group meetings](modules/06-research-group-meetings.md)
-- [07 — Scheduling, closing and follow-up](modules/07-scheduling-and-follow-up.md)
+- [01 — Joining & Greeting](lessons/lesson-01/lesson-plan.md)
+- [02 — Small Talk & Building Rapport](lessons/lesson-02/lesson-plan.md)
+- [Research background and motivation: reusable language](modules/02-background-and-research.md)
+- [Discussion reference — Papers and thesis ideas](modules/03-papers-and-thesis-ideas.md)
+- [Discussion reference — Questions for supervisors, authorship and funding](modules/04-questions-for-supervisors.md)
+- [Discussion reference — Clarification and conversation repair](modules/05-listening-and-conversation-repair.md)
+- [Discussion reference — Future lab and research group meetings](modules/06-research-group-meetings.md)
+- [Discussion reference — Scheduling, closing and follow-up](modules/07-scheduling-and-follow-up.md)
 
 ## Practice and record-keeping
 

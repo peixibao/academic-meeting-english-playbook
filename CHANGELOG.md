@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.7.0 — 2026-10-22
+
+- Audited GitHub `main`: Lesson 01 files were present and intact; Lesson 02 had not yet been saved.
+- Saved Lesson 02 Section 2.1 as a substantive, structured Markdown lesson with detailed scenarios and natural dialogue.
+- Added a separate 2.1 grammar supplement for you/yours, present perfect versus simple tenses, and future continuous versus simple future.
+- Preserved transferable interdisciplinary academic-motivation expressions in a separate reference file, without publishing sensitive personal reasons for emigrating or private correspondence.
+- Fixed README course status and current navigation; replaced an outdated Lesson 01 instructor note.
+- No change to Lesson 01's reviewed 421-line Section 1.1. Lesson 02.2 remains untaught.
+
 ## v0.6.0 — 2026-10-21
 
 - Saved the approved full 421-line Lesson 01 Section 1.1 Markdown, retaining correct subheading hierarchy.
