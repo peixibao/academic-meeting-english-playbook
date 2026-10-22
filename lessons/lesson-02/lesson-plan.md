@@ -9,10 +9,12 @@
 
 ## Status
 
-Sections **2.1 and 2.2 taught and reviewed in conversation**. The learner reported that 2.2 felt easy and had no outstanding questions. This records coverage and learner feedback; **it does not establish assessed spoken proficiency**.
+Sections **2.1 and 2.2 taught and reviewed in conversation**. The learner stated that they had no further questions. This records material covered and questions answered; **it does not establish assessed spoken proficiency or authorize a change to the course plan**.
 
-**Next section:** 2.3 Advanced, unscripted conversational adaptability — fast topic shifts, indirect cues, extended contributions, and nuanced repair. Increase difficulty based on learner feedback; do not repeat 2.1/2.2 basics.
+**Next core unit:** Lesson 03 — Politeness & Academic Etiquette, following the [fixed eight-unit syllabus](../../README.md#fixed-eight-unit-curriculum). Future conversation-management and unexpected-situation coverage remain in their originally planned Lessons 04 and 05. No separate 2.3 challenge track has been authorized.
 
 ## Teaching approach
 
 English-first, plain Markdown, nested section hierarchy. Explain usage, pragmatics, alternatives and scenarios at meaningful depth. Give spontaneous speech feedback after sufficient instruction; no compulsory elementary quizzes, no decorative callouts. Add Chinese explanations only where terminology benefits from them.
+
+**Scope rule:** Cover each planned language function thoroughly regardless of whether the learner finds the material easy, difficult, familiar or unfamiliar. An absence of questions means only that there are no questions at that point.

@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.8.1 — 2026-10-22
+
+- Restored and documented the learner's original fixed eight-unit English meeting curriculum.
+- Corrected the unauthorized inference that “no questions” or material feeling easy warrants changing the course difficulty, teaching goals or sequence.
+- Removed the unsanctioned Lesson 02.3 “advanced challenge” plan; next core unit follows the original syllabus: Lesson 03 Politeness & Academic Etiquette.
+- Preserved all approved lesson texts, including Lesson 02.2, without alteration.
+- The v0.8.0 record below describes what was changed at that time; its difficulty-based plan has been superseded by this correction.
+
 ## v0.8.0 — 2026-10-22
 
 - Saved reviewed Lesson 02 Section 2.2 as full nested Markdown reference: follow-up ladder, active listening, paraphrasing, appropriate self-disclosure, signals, and seven unexpected scenarios.
