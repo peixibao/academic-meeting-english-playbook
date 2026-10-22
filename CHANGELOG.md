@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.8.0 — 2026-10-22
+
+- Saved reviewed Lesson 02 Section 2.2 as full nested Markdown reference: follow-up ladder, active listening, paraphrasing, appropriate self-disclosure, signals, and seven unexpected scenarios.
+- Recorded learner feedback that 2.2 was easy, without falsely marking speaking fluency as tested.
+- Set next section (2.3) to higher-complexity spontaneous conversational adaptability.
+- Left previously approved notes unchanged.
+
 ## v0.7.0 — 2026-10-22
 
 - Audited GitHub `main`: Lesson 01 files were present and intact; Lesson 02 had not yet been saved.
