@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.0.0 — 2026-10-24
+
+- Archived complete previously taught Lesson 03 Sections 3.2, 3.3 and 3.4 as individual A–J Markdown references.
+- Saved Section 3.2 from its original 642-line generated Markdown file, updating only its outdated draft-status footer.
+- Kept Section 3.3's gratitude, praise, contribution-credit and difficult-response instruction, and Section 3.4's expectations, role clarity, boundaries and meeting-etiquette instruction.
+- Updated course navigation, phrase bank and progress. Next in the fixed syllabus: Lesson 04 — Turn-Taking & Conversation Management.
+- Review status is precise: 3.2 was read; 3.3 and 3.4 were provided and saved at the learner's explicit request for later reading. No speaking assessment is claimed.
+
 ## v0.9.0 — 2026-10-23
 
 - Saved reviewed Lesson 03 Section 3.1 as a full A–J Markdown teaching reference, covering politeness, register, forms of address, indirectness, modal verbs, hedging, deference, realistic dialogues, and accepting compliments.

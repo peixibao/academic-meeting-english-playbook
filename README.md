@@ -4,7 +4,7 @@ Reusable spoken English and realistic practice for prospective-supervisor meetin
 
 **Completed study section:** [Lesson 01 — Joining & Greeting](lessons/lesson-01/lesson-plan.md) · [Full opening exchange](lessons/lesson-01/1.1-opening-exchange.md) · [Name pronunciation](lessons/lesson-01/1.1a-names-and-pronunciation.md) · [Negotiating how to start](lessons/lesson-01/1.1b-negotiating-how-to-begin.md)
 
-**Current course status:** Lesson 01 saved; Lesson 02 Sections 2.1 and 2.2 saved; **Lesson 03 Section 3.1 taught, reviewed, corrected and saved**. **Next: Lesson 03 · Section 3.2 Making Requests and Asking Permission**.
+**Current course status:** Lesson 01 and Lesson 02 saved; **Lesson 03 Sections 3.1–3.4 saved**. Section 3.2 was read by the learner; Sections 3.3–3.4 were delivered and saved at the learner's explicit request for later review. **Next: Lesson 04 — Turn-Taking & Conversation Management.**
 
 **Start here:** [Meeting map](guide/00-how-meetings-work.md) · [Learning method](guide/01-how-to-learn-and-update.md) · [Verified resources](guide/02-official-guides-and-videos.md)
 
