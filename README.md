@@ -4,7 +4,7 @@ Reusable spoken English and realistic practice for prospective-supervisor meetin
 
 **Completed study section:** [Lesson 01 — Joining & Greeting](lessons/lesson-01/lesson-plan.md) · [Full opening exchange](lessons/lesson-01/1.1-opening-exchange.md) · [Name pronunciation](lessons/lesson-01/1.1a-names-and-pronunciation.md) · [Negotiating how to start](lessons/lesson-01/1.1b-negotiating-how-to-begin.md)
 
-**Current course status:** Lesson 01 and Lesson 02 saved; **Lesson 03 Sections 3.1–3.4 saved**. Section 3.2 was read by the learner; Sections 3.3–3.4 were delivered and saved at the learner's explicit request for later review. **Next: Lesson 04 — Turn-Taking & Conversation Management.**
+**Current course status:** Lessons 01–03 archived; **Lesson 04 Sections 4.1–4.4 archived**. 4.1 was taught and accepted; 4.2–4.4 were provided as full Markdown references for self-study and saved at the learner's request. **Next core unit: Lesson 05 — Unexpected Situations & Recovery.**
 
 **Start here:** [Meeting map](guide/00-how-meetings-work.md) · [Learning method](guide/01-how-to-learn-and-update.md) · [Verified resources](guide/02-official-guides-and-videos.md)
 
@@ -46,6 +46,7 @@ This is a **systematic, comprehensive course of transferable English for academi
 - [01 — Joining & Greeting](lessons/lesson-01/lesson-plan.md)
 - [02 — Small Talk & Building Rapport](lessons/lesson-02/lesson-plan.md)
 - [03 — Politeness & Academic Etiquette](lessons/lesson-03/lesson-plan.md)
+- [04 — Turn-Taking & Conversation Management](lessons/lesson-04/lesson-plan.md)
 - [Research background and motivation: reusable language](modules/02-background-and-research.md)
 - [Discussion reference — Papers and thesis ideas](modules/03-papers-and-thesis-ideas.md)
 - [Discussion reference — Questions for supervisors, authorship and funding](modules/04-questions-for-supervisors.md)

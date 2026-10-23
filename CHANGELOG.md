@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.1.0 — 2026-10-24
+
+- Archived Lesson 04 Sections 4.1–4.4 as separate complete A–J Markdown references.
+- Section 4.1 was taught, read and accepted; reconstructed it as a standalone Markdown lesson.
+- Sections 4.2–4.4 were taken from the original delivered Markdown files. Preserved teaching bodies and updated outdated GitHub draft footers only.
+- Updated README navigation, progress log and useful phrase bank without altering the fixed eight-unit syllabus.
+- Individual reading and spoken practice remain unconfirmed for 4.2–4.4.
+- Next core unit: Lesson 05 — Unexpected Situations & Recovery.
+
 ## v1.0.0 — 2026-10-24
 
 - Archived complete previously taught Lesson 03 Sections 3.2, 3.3 and 3.4 as individual A–J Markdown references.

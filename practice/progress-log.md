@@ -1,7 +1,8 @@
 # Practice progress (nonconfidential only)
 
 | Date | Practice | What went well | What to improve | Next exercise |
-|---|---|---|---|
+|---|---|---|---|---|
+| 2026-10-24 | Lesson 04.1 read and accepted; Lessons 04.2–4.4 supplied as Markdown for later reading and saved upon request. | Complete turn-taking and conversation-management reference now on GitHub | 4.2–4.4 individual reading not confirmed; no speaking assessment | Lesson 05 — Unexpected Situations & Recovery |
 | 2026-10-22 | Lesson 02 Section 2.2 covered and reviewed; learner indicated no further questions. | Follow-up questions and active-listening knowledge explained | No outstanding questions stated; no proficiency assessment undertaken | Lesson 03 — Politeness & Academic Etiquette (original syllabus) |
 | 2026-10-22 | Lesson 02 Section 2.1 and targeted grammar/academic-motivation follow-ups reviewed; reference notes saved. | Conversation expansion, nuance of pronouns and tense, interdisciplinary research explanation | More spontaneous back-and-forth practice remains | 2.2 Follow-up questions and active listening |
 | 2026-10-21 | Lesson 01 reference approved: opening exchange, naming and pronunciation, negotiating the agenda. Practiced a short live greeting. | Responding to multiple conversational cues; register distinctions; asking about scope | More spontaneous conversation practice remains useful | Lesson 02: Small Talk & Building Rapport |
