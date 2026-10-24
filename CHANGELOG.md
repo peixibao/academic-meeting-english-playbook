@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.4.0 — 2026-10-25
+
+- Audited the repository tree and generated a complete navigation for 8 lessons and 36 course chapters, including every later-added supplement.
+- Updated README with direct links to all chapter teaching files in the correct original curriculum order.
+- Published two editable Markdown course directories for OneNote: a three-level lesson/chapter/A–J outline and a four-level version extending to fine-grained headings.
+- Created eight per-unit hierarchical outlines with direct source links; teaching content remains unchanged.
+- Index generation follows actual archived headings. Directory presence does not imply speaking assessment.
+
 ## v1.3.0 — 2026-10-25
 
 - Archived all remaining course teaching material in three commits: Lesson 01.2, complete Lesson 06 Sections 6.1–6.5 with audit supplements 6.1a/6.2a/6.3a/6.4a, Lesson 07 Sections 7.1–7.5, and Lesson 08 Sections 8.1–8.3.
