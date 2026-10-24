@@ -4,10 +4,11 @@
 - [1.1 The Opening Exchange — first 30–90 seconds](1.1-opening-exchange.md) — full detailed reference in the approved Markdown heading hierarchy.
 - [1.1a Handling Names, Pronunciation and Forms of Address](1.1a-names-and-pronunciation.md) — all response branches when either person is unsure of a name.
 - [1.1b Negotiating How to Begin](1.1b-negotiating-how-to-begin.md) — who speaks first, what the professor may ask, how much to explain, and how to handle an open agenda.
+- [1.2 Meeting Types, Interview Formats, and Preparation](1.2-meeting-types-interview-formats-and-preparation.md) — curriculum-audit supplement: exploratory supervisor meetings, admissions/funding interviews, panels and meeting preparation; archived at learner's request.
 
 **Teaching structure:** explanation and contextual examples → expression nuance → real-life branches → feedback on learner's spontaneous response. No beginner multiple-choice quizzes, no contrived error comparisons, no decorative boxes.
 
-**Lesson status:** Reference sections 1.1/1.1a/1.1b reviewed and approved for saving. The learner has practiced at least one short opening aloud/in writing, but no formal proficiency assessment is implied.
+**Lesson status:** Reference sections 1.1/1.1a/1.1b reviewed and saved; supplement 1.2 delivered and archived at learner's request. The learner has practiced at least one short opening aloud/in writing, but no formal proficiency assessment is implied.
 
 **Next scheduled subject:** Lesson 02 — Small Talk & Building Rapport. Do not blend future modules into this lesson.
 
