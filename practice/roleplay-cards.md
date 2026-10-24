@@ -16,6 +16,14 @@ For every card: the simulated professor speaks first. The student should respond
 | R10 | 3 | Funding and formal eligibility | Professor sends you to graduate office |
 | R11 | 4 | An unfamiliar method is introduced | You miss the acronym |
 | R12 | 4 | Meeting is almost over | You must confirm the next step in 30 seconds |
+| R13 | 3 | Explain why MPhil/PhD and the chosen program | Asked why you did not choose the alternative |
+| R14 | 4 | Discuss a past research setback | Professor demands specific evidence of your contribution |
+| R15 | 4 | Explain results to a mixed-discipline panel | Asked to explain without jargon |
+| R16 | 4 | Defend a tentative research proposal | Professor challenges feasibility or data access |
+| R17 | 3 | Clarify potential supervisor expectations | Different assumptions about independence |
+| R18 | 4 | Discuss research funding and admissions | Professor cannot guarantee an offer |
+| R19 | 4 | Express a boundary or disagree with a proposal | Professor suggests a different arrangement |
+| R20 | 3 | Close and handle a vague outcome | Professor says “Let's stay in touch” |
 
 ## Mock meeting formats
 
@@ -23,6 +31,7 @@ For every card: the simulated professor speaks first. The student should respond
 - 12-minute research exchange: R03, R05–R07, R11.
 - 25-minute full prospective-supervisor conversation: R01–R12 selected naturally.
 - Future lab meeting: progress, unexpected criticism, next steps.
+- Full application/interview rehearsal: select R13–R20 along with R01–R12, following the conversation naturally.
 
 ## Feedback
 Evaluate accuracy, naturalness, responsiveness, evidence integrity and ability to ask follow-up questions. Log two improvements, not twenty.

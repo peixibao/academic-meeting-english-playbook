@@ -2,9 +2,9 @@
 
 Reusable spoken English and realistic practice for prospective-supervisor meetings, thesis discussions and research-group meetings.
 
-**Completed study section:** [Lesson 01 — Joining & Greeting](lessons/lesson-01/lesson-plan.md) · [Full opening exchange](lessons/lesson-01/1.1-opening-exchange.md) · [Name pronunciation](lessons/lesson-01/1.1a-names-and-pronunciation.md) · [Negotiating how to start](lessons/lesson-01/1.1b-negotiating-how-to-begin.md)
+**Study materials:** All eight units have been delivered and archived. Use the [unit index](#current-lessons-and-reusable-modules) to find a specific topic; archived material is not automatically speaking-tested.
 
-**Current course status:** Lessons 01–04 archived; **Lesson 05 Sections 5.1–5.4 reviewed and saved**. The learner reported no outstanding questions; no speaking assessment was conducted. **Next core unit: Lesson 06 — Topic-Specific Discussion (replaceable).**
+**Current course status:** Lessons 01–08 archived, including the Lesson 01.2 interview-preparation supplement, Lesson 06.1–6.5 and four curriculum-audit supplements. Lesson 07 and 08 were provided for independent study and saved on request; no full speaking-proficiency assessment has been conducted. **Next optional step: integrated mock supervisor meeting.**
 
 **Start here:** [Meeting map](guide/00-how-meetings-work.md) · [Learning method](guide/01-how-to-learn-and-update.md) · [Verified resources](guide/02-official-guides-and-videos.md)
 
@@ -48,6 +48,10 @@ This is a **systematic, comprehensive course of transferable English for academi
 - [03 — Politeness & Academic Etiquette](lessons/lesson-03/lesson-plan.md)
 - [04 — Turn-Taking & Conversation Management](lessons/lesson-04/lesson-plan.md)
 - [05 — Unexpected Situations & Recovery](lessons/lesson-05/lesson-plan.md)
+- [06 — Topic-Specific Discussion (including audit supplements and 6.5)](lessons/lesson-06/lesson-plan.md)
+- [07 — Expressing Expectations & Negotiating](lessons/lesson-07/lesson-plan.md)
+- [08 — Wrapping Up & Follow-up](lessons/lesson-08/lesson-plan.md)
+- [Curriculum coverage audit — 2026-10-24](guide/curriculum-coverage-audit-20261024.md)
 - [Research background and motivation: reusable language](modules/02-background-and-research.md)
 - [Discussion reference — Papers and thesis ideas](modules/03-papers-and-thesis-ideas.md)
 - [Discussion reference — Questions for supervisors, authorship and funding](modules/04-questions-for-supervisors.md)

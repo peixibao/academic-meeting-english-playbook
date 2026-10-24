@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.3.0 — 2026-10-25
+
+- Archived all remaining course teaching material in three commits: Lesson 01.2, complete Lesson 06 Sections 6.1–6.5 with audit supplements 6.1a/6.2a/6.3a/6.4a, Lesson 07 Sections 7.1–7.5, and Lesson 08 Sections 8.1–8.3.
+- Added the original curriculum coverage audit as a historical snapshot and updated the Lesson 01 and Lesson 06 plans to point to inserted supplements.
+- Preserved the original A–J teaching bodies. Updated outdated "not yet uploaded" archive-status notes and course navigation.
+- Updated README, course progress, phrase bank and optional mock-meeting cards for the complete eight-unit course.
+- Lessons 07–08 were delivered and archived on request; individual reading and spontaneous spoken fluency were not assessed. Archiving does not imply proficiency.
+- The eight-unit curriculum is now archived; integrated, unscripted mock meetings remain optional practice.
+
 ## v1.2.0 — 2026-10-24
 
 - Archived the original Lesson 05 Sections 5.1–5.4, complete with A–J sections, after the learner's review.

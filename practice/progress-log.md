@@ -2,6 +2,8 @@
 
 | Date | Practice | What went well | What to improve | Next exercise |
 |---|---|---|---|---|
+| 2026-10-25 | Learner requested archival sync for all remaining course materials, including Lesson 01.2, full Lesson 06 with audit supplements, Lesson 07 and Lesson 08. | All eight units and coverage audit now organized in GitHub | Lesson 07–08 reading and unscripted speaking not assessed | Optional full supervisor-meeting role-play |
+| 2026-10-24 | Lesson 06 and gap-filling supplements delivered; motivation/technical questions discussed; Lessons 07–08 delivered for later reading. | Reusable English-first references covering scientific questions, interviews, negotiations and follow-up | Progress reflects delivered teaching, not verified speaking ability | Review or mock meeting when ready |
 | 2026-10-24 | Lesson 05 Sections 5.1–5.4 reviewed; learner reported no outstanding questions and requested GitHub synchronization. | Four A–J recovery lessons and index archived | Live speaking assessment not undertaken | Lesson 06 — Topic-Specific Discussion |
 | 2026-10-24 | Lesson 04.1 read and accepted; Lessons 04.2–4.4 supplied as Markdown for later reading and saved upon request. | Complete turn-taking and conversation-management reference now on GitHub | 4.2–4.4 individual reading not confirmed; no speaking assessment | Lesson 05 — Unexpected Situations & Recovery |
 | 2026-10-22 | Lesson 02 Section 2.2 covered and reviewed; learner indicated no further questions. | Follow-up questions and active-listening knowledge explained | No outstanding questions stated; no proficiency assessment undertaken | Lesson 03 — Politeness & Academic Etiquette (original syllabus) |
