@@ -2,6 +2,7 @@
 
 | Date | Practice | What went well | What to improve | Next exercise |
 |---|---|---|---|---|
+| 2026-10-24 | Lesson 05 Sections 5.1–5.4 reviewed; learner reported no outstanding questions and requested GitHub synchronization. | Four A–J recovery lessons and index archived | Live speaking assessment not undertaken | Lesson 06 — Topic-Specific Discussion |
 | 2026-10-24 | Lesson 04.1 read and accepted; Lessons 04.2–4.4 supplied as Markdown for later reading and saved upon request. | Complete turn-taking and conversation-management reference now on GitHub | 4.2–4.4 individual reading not confirmed; no speaking assessment | Lesson 05 — Unexpected Situations & Recovery |
 | 2026-10-22 | Lesson 02 Section 2.2 covered and reviewed; learner indicated no further questions. | Follow-up questions and active-listening knowledge explained | No outstanding questions stated; no proficiency assessment undertaken | Lesson 03 — Politeness & Academic Etiquette (original syllabus) |
 | 2026-10-22 | Lesson 02 Section 2.1 and targeted grammar/academic-motivation follow-ups reviewed; reference notes saved. | Conversation expansion, nuance of pronouns and tense, interdisciplinary research explanation | More spontaneous back-and-forth practice remains | 2.2 Follow-up questions and active listening |

@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.2.0 — 2026-10-24
+
+- Archived the original Lesson 05 Sections 5.1–5.4, complete with A–J sections, after the learner's review.
+- Teaching bodies were preserved; only outdated “not yet synced to GitHub” footers were updated.
+- Saved the original Lesson 05 lesson plan, changing internal file links and archive status to match the repository.
+- Updated course navigation, progress log and phrase bank; the original eight-unit syllabus was not changed.
+- Learner reported no outstanding questions. No live speaking assessment was conducted.
+- Next core unit: Lesson 06 — Topic-Specific Discussion (replaceable).
+
 ## v1.1.0 — 2026-10-24
 
 - Archived Lesson 04 Sections 4.1–4.4 as separate complete A–J Markdown references.
