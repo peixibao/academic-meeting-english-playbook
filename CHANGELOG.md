@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.5.0 — 2026-10-28
+
+- Added independent `debriefs/` reflection track without modifying the eight-unit curriculum.
+- Documented an anonymized case of conceptual uncertainty cascading into listening and question-intent errors.
+- Added general-purpose research terminology glossary and a reusable privacy-safe debrief template.
+- Excluded identifying people, institutions, specific projects, private correspondence, and meeting transcripts.
+
 ## v1.4.0 — 2026-10-25
 
 - Audited the repository tree and generated a complete navigation for 8 lessons and 36 course chapters, including every later-added supplement.
