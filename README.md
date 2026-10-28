@@ -10,6 +10,8 @@ Reusable spoken English and realistic practice for prospective-supervisor meetin
 
 **Start here:** [Meeting map](guide/00-how-meetings-work.md) · [Learning method](guide/01-how-to-learn-and-update.md) · [Verified resources](guide/02-official-guides-and-videos.md)
 
+**Separate reflection track:** [Anonymous meeting debriefs](debriefs/README.md) · [Case 001: conceptual gaps and research fit](debriefs/001-conceptual-gaps-and-research-fit.md) · [Research terminology glossary](debriefs/research-concepts-glossary.md) · [Debrief template](debriefs/debrief-template.md). This collection does not alter the fixed eight-unit curriculum.
+
 ## Principle: modular, not memorized
 
 A meeting is a two-way conversation. Assemble an answer from a communication purpose (greet, clarify, connect research, ask, summarize) rather than learning a fixed speech. The order of topics may change.
